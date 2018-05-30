@@ -1,0 +1,7 @@
+{
+  "prefix" : "-",
+  "token" : "yourbottoken",
+  "version" : "1.0",
+  "name" : "EssentialBot",
+  "noperm" : "`Insufficent permissions, please ask an administrator for more information.`"
+}
